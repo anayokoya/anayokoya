@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou **Ana Yokoya** ### 💡 *Transição Estratégica para Tecnologia & Produto*
+# 👋 Olá! Eu sou **Ana Yokoya** #
+## 💡 *Transição Estratégica para Tecnologia & Produto*
 
 ---
 
